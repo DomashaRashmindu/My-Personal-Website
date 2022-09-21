@@ -1,4 +1,4 @@
-# [VenujA's Personal Website](https://venuja.tk/) - v3.0
+# [Domasha's Personal Website](https://venuja.tk/) - v3.0
 
 _<b><p align="center">This is the source code for my personal website.</p></b>_
 
